@@ -6,7 +6,7 @@ import UpdatingArray from './components/useState/UpdatingArray';
 
 export default function App() {
   return (
-    <div class="container">
+    <div className="container">
       {/*  <Counter />
       <br />
       <UpdatingObject /> */}
