@@ -5,6 +5,7 @@ import UpdatingObject from './components/useState/UpdatingObject';
 import UpdatingArray from './components/useState/UpdatingArray';
 import UpdateTitle from './components/useEffect/UpdateTitle';
 import CleanUp from './components/useEffect/CleanUp';
+import FetchingData from './components/useEffect/FetchingData';
 
 export default function App() {
   return (
@@ -13,8 +14,9 @@ export default function App() {
       <br />
       <UpdatingObject />
       <UpdatingArray /> 
-      <UpdateTitle /> */}
-      <CleanUp />
+      <UpdateTitle /> 
+      <CleanUp />*/}
+      <FetchingData />
     </div>
   );
 }
